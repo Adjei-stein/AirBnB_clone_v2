@@ -22,7 +22,7 @@ This repository contains the initial stage of a student project to build a clone
 | file_storage.py | [/models/engine/file_storage.py](https://github.com/Adjei-stein/AirBnB_clone_v2/blob/master/models/engine/file_storage.py) | This module defines a class to manage file storage for hbnb clone |
 | setup_mysql_dev.sql | [setup_mysql_dev.sql] (https://github.com/Adjei-stein/AirBnB_clone_v2/blob/master/setup_mysql_dev.sql) | script that prepares a MySQL server for the project |
 | setup_mysql_test.sql | [setup_mysql_test.sql] (https://github.com/Adjei-stein/AirBnB_clone_v2/blob/master/setup_mysql_test.sql) | script that prepares a MySQL server for the project |
-| main_delete.py | [main_delete.py] (https://github.com/wantonraven/Adjei-stein/blob/master/main_delete.py) | Test delete feature |
+| main_delete.py | [main_delete.py] (https://github.com/Adjei-stein/blob/master/main_delete.py) | Test delete feature |
 | test_params_create | [test_params_create] | Test file | 
 <br>
 <br>
